@@ -11,8 +11,8 @@ My experience spans data analytics, research, and data engineering, including:
 - Developing predictive models and applying machine learning techniques
 - Building automated ETL pipelines and data engineering workflows
 
-**Tools & Technologies:** Python · R · SQL · Oracle Analytics Modeling Tool · SSIS
+**Tools & Technologies:** Python · R · SQL
 
 ### 🔍 Interests
 
-I'm particularly interested in the intersection of data science and real-world applications, including human behavior, public policy, and decision-making. I enjoy exploring new methods, tackling challenging problems, and turning data into practical solutions.
+I'm interested in how data can help explain patterns in people's behavior and the factors behind real-world trends. I enjoy working with messy datasets, asking questions that aren't immediately obvious, and figuring out how to investigate them through statistical analysis and modeling!

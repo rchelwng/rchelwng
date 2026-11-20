@@ -16,3 +16,5 @@ My experience spans data analytics, research, and data engineering, including:
 ### 🔍 Interests
 
 I'm interested in how data can help explain patterns in people's behavior and the factors behind real-world trends. I enjoy working with messy datasets, asking questions that aren't immediately obvious, and figuring out how to investigate them through statistical analysis and modeling!
+
+[Connect with me on LinkedIn! 💼](https://www.linkedin.com/in/rachelw0ng/)

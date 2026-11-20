@@ -11,7 +11,7 @@ My experience spans data analytics, research, and data engineering, including:
 - Developing predictive models and applying machine learning techniques
 - Building automated ETL pipelines and data engineering workflows
 
-**Tools & Technologies:** Python · R · SQL
+**Tools & Technologies:** Python, R, SQL
 
 ### 🔍 Interests
 
